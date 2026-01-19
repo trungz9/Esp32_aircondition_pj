@@ -1,5 +1,7 @@
 # ESP32 WiFi Fan & LED Control 🌐🌀
 
+***main.ino*** Là file cơ bản.  
+***main_mq2.ino*** Là file + thêm chức năng cảm biến khói mq2 và chế độ tự động auto.  
 Dự án này sử dụng **ESP32** để điều khiển **quạt DC (qua MOSFET)** và **LED** thông qua **trình duyệt web** trong cùng mạng WiFi.  
 Người dùng có thể điều chỉnh **công suất (PWM)** của quạt và LED bằng **thanh trượt (slider)** trên giao diện web.
 
