@@ -2,7 +2,7 @@
 
 Hệ thống IoT dùng ESP32 để phát hiện nồng độ khói (MQ-135) và điều khiển quạt hút DC 12V (PWM) qua giao diện web chạy trực tiếp trên ESP32 (Access Point).
 
-***Thành viên tạo sản phẩm cùng nhóm với quanq026.***
+***Bản thân là thành viên cùng tạo sản phẩm với quanq026.***
 ## Tính năng
 
 - Tự động (Auto Mode): Tự động kích hoạt/quyết định tốc độ quạt khi nồng độ khói vượt ngưỡng.
